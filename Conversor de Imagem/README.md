@@ -3,7 +3,7 @@
 ## Descrição
   O intuito desse projeto é realizar a conversão de uma imagem colorida para sua versão em preto em branco.
 
-  Esse projeto foi implementado como parte de um trabalho prático, da disciplica de Estruturas de Dados
+  Esse projeto foi implementado como parte de um trabalho prático da disciplina de Estruturas de Dados
 
 ## Observações
 <b>A interface do sistema construído é do tipo console</b>
