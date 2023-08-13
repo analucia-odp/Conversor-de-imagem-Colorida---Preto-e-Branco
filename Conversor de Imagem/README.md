@@ -13,12 +13,13 @@ desenvolvida esse trabalho contém o processador Intel(R) Core(TM) i5-8265U CPU 
 1.60GHz 1.80 GHz e 8GB de memória RAM.
 
 ## Rodando o projeto
-* Acesse o diretório Tp;
+* Acesse o diretório;
 * Utilizando um terminal, compile o programa utilizando o seguinte comando: <
 make>;
-* Com esse comando, será gerado o executável do programa
+* Com esse comando, será gerado o executável do programa.
+* Proceda dessa maneira:
 ```
-Proceda dessa maneira : Escreva no terminal: ./bin/run.out
+Escreva no terminal: ./bin/run.out
 -i “diretório do arquivo de entrada” (no formato .ppm) ;
 -o “diretório do arquivo de saída” (no formato .pgm);
 -p “nome do arquivo de registro de memória”;
